@@ -1,5 +1,5 @@
 📫 How to reach me
-Email          : rianprastio303@gmail.com
+Email          : rianprastio303@gmail.com\n
 Phone/Whatsapp : +62 898 4357 882
 
 
