@@ -3,11 +3,10 @@ Email          : rianprastio303@gmail.com<br/>
 Phone/Whatsapp : +62 898 4357 882<br/><br/>
 
 
+I have more than 2+ years of experience in the field of software development (Software Development) specializing in Full-Stack development.<br/>
+Experienced with all stages of development such as Problem Solving Software, Testing Software, Maintaining Software, and Fixing Bugs in software.<br/>
 
-I am a student skilled in programming and developing specializing in fullstack development.<br/>
-Experienced with all stages of developing such as problem solving in software and maintaining software.<br/><br/>
-
-Experienced in various programming languages including:
+Experienced in various programming languages including:<br/>
 
 •	Javascript (React JS, Next JS, Node JS, Jquery, Object Oriented Javascript)<br/>
 •	HTML5 & CSS3<br/>
