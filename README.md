@@ -8,6 +8,7 @@ Experienced with all stages of development such as Problem Solving Software, Tes
 
 Experienced in various programming languages including:<br/>
 
+•	Java (NetBeans)<br/>
 •	Javascript (React JS, Next JS, Node JS, Jquery, Object Oriented Javascript)<br/>
 •	HTML5 & CSS3<br/>
 •	Python<br/>
@@ -16,7 +17,7 @@ Experienced in various programming languages including:<br/>
 •	C++ (GTKMM)<br/>
 •	LUA<br/>
 •	Android Studio (Kotlin, Gradle)<br/>
-•	Database (MySQL, MongoDB, SQL Server)<br/>
+•	Database (MySQL, MongoDB, PostgreSQL, SQL Server)<br/>
 •	Operation System (Windows, Linux)<br/>
 •	Microsoft Office (Word, Excel, PowerPoint)<br/>
 •	Typing with 10 Fingers<br/>
